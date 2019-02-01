@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="a:btn" value="&lt;a&gt;$END$&lt;/a&gt;" description="&lt;a&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
